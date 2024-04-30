@@ -1,7 +1,9 @@
 {
   "name": "machineroom",
   "version": "0.1.0",
-  "private": true,
+  "author": "KiligFei",
+  "license": "ISC",
+  "private": false,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
